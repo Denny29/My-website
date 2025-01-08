@@ -7,7 +7,7 @@ type projectProps = {
 
 
 //Templaate to add projects
-export default function Project({title, link, description, image}: projectProps){
+export default function Project_Template({title, link, description, image}: projectProps){
     return (
         <div className="project-div">
             <p>{title}</p>
