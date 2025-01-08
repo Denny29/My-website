@@ -11,7 +11,7 @@ export default function Project_Template({title, link, description, image}: proj
     return (
         <div className="project-div">
             <p>{title}</p>
-            <p>{link}</p>
+            <p><a className="links" href={link}>Link to repo.</a></p>
             <p>{description}</p>
             <img className="sample-photo" src={image} />
         </div>

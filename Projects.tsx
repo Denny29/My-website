@@ -8,11 +8,7 @@ to the page.
 export default function Projects(){
     return (
         <div className="projects-div">
-            ${
-                Project_Data.map(project => {
-                    return <Project_Template {...project} />
-                })
-            }
+            { Project_Data.map(project => <Project_Template {...project} /> ) }
         </div>
     )
 }

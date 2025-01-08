@@ -1,8 +1,20 @@
 [
     {
-        "title": "Sample Project",
-        "link": "Fakelink.com",
-        "description": "lorem ipsum dolor sit amet",
-        "image": "https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_square.jpg"
+        "title": "Connect Four",
+        "link": "https://github.com/Denny29/Connect_Four",
+        "description": "A website I made to practice React back around 2020, and not very efficiently. I copied and pasted way too much, amd I can probably remake it soon with half the lines. Still, I am proud of myself, as the game looks decent in terms of CSS, and it was great practice with state. ",
+        "image": "src/assets/connect_four.png"
+    },
+    {
+        "title": "Connect Four",
+        "link": "https://github.com/Denny29/Connect_Four",
+        "description": "A website I made to practice React back around 2020, and not very efficiently. I copied and pasted way too much, amd I can probably remake it soon with half the lines. Still, I am proud of myself, as the game looks decent in terms of CSS, and it was great practice with state. ",
+        "image": "src/assets/connect_four.png"
+    },
+    {
+        "title": "Connect Four",
+        "link": "https://github.com/Denny29/Connect_Four",
+        "description": "A website I made to practice React back around 2020, and not very efficiently. I copied and pasted way too much, amd I can probably remake it soon with half the lines. Still, I am proud of myself, as the game looks decent in terms of CSS, and it was great practice with state. ",
+        "image": "src/assets/connect_four.png"
     }
 ]
